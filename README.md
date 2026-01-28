@@ -17,9 +17,13 @@ This repository includes the Power BI file, dataset, exported dashboard PDF, and
 
 ## 📊 Dashboard Preview
 
-![Dashboard 1](Screenshots/DashBoard%201.png)
-![Dashboard 2](Screenshots/DashBoard%202.png)
-![Dashboard 3](Screenshots/DashBoard%203.png)
+## 📊 Dashboard Preview
+
+<img src="https://raw.githubusercontent.com/Sharonk17/India-Statewise-Constituency-Analysis-PowerBI/main/Screenshots/Dashboard%201.png" width="800"/>
+
+<img src="https://raw.githubusercontent.com/Sharonk17/India-Statewise-Constituency-Analysis-PowerBI/main/Screenshots/Dashboard%202.png" width="800"/>
+
+<img src="https://raw.githubusercontent.com/Sharonk17/India-Statewise-Constituency-Analysis-PowerBI/main/Screenshots/Dashboard%203.png" width="800"/>
 
 *Note: Click on the images above to view full dashboard screenshots.*
 
