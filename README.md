@@ -17,9 +17,9 @@ This repository includes the Power BI file, dataset, exported dashboard PDF, and
 
 ## 📊 Dashboard Preview
 
-![Dashboard 1](Screenshots/dashboard1.png)
-![Dashboard 2](Screenshots/dashboard2.png)
-![Dashboard 3](Screenshots/dashboard3.png)
+![Dashboard 1](Screenshots/Dashboard1.png)
+![Dashboard 2](Screenshots/Dashboard2.png)
+![Dashboard 3](Screenshots/Dashboard3.png)
 
 _Note: Click on the images above to view full dashboard screenshots._
 
